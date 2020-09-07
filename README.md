@@ -2,7 +2,7 @@
 #### I am a web developer living in Hanoi, Vietnam.
 I'm having 5 years of experiences of developing the website, web application using PHP and MySQL. 
 
-I'm currently focusing on Laravel and VueJS stack, also love the open sources and leaning the new technologies.
+Specialising in Laravel and VueJS stack, also love the open sources and leaning the new technologies.
 
 Skills: Magento 2, Laravel, Vue, Nuxt, Node, AWS, Docker
 
