@@ -4,10 +4,10 @@ I'm having 5 years of experiences of developing the website, web application usi
 
 Specialising in Laravel and VueJS stack, also love the open sources and leaning the new technologies.
 
-Skills: Magento 2, Laravel, Vue, Nuxt, Node, AWS, Docker
+Skills: Laravel, VueJS, NuxtJS, NodeJS, AWS, Docker
 
 - 🔭 I’m currently working on Laravel and Vue 
-- 🌱 I’m currently learning Vue3, SwiftUI 
+- 🌱 I’m currently learning Vue3 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dhduc&show_icons=true)  
 
