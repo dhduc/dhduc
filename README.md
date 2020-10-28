@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Duke Dao
+### Hi there 👋, my name is Duc Dao
 #### I am a web developer living in Hanoi, Vietnam.
 I'm having 5 years of experiences of developing the website, web application using PHP and MySQL. 
 
