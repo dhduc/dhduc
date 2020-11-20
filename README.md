@@ -9,6 +9,8 @@ Skills: Laravel, VueJS, NuxtJS, NodeJS, AWS, Docker
 - 🔭 I’m currently working on Laravel and Vue 
 - 🌱 I’m currently learning Vue3 
 
+Website: [https://ducdh.com](https://ducdh.com)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dhduc&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/dhduc)  
