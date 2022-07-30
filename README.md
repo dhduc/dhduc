@@ -1,7 +1,10 @@
 ### Hi there 👋, my name is Duc Dao
 #### I am a software developer & solution architect working in Hanoi, Vietnam.
+
 I am having 7 years of experiences of developing the website and backend application using PHP and MySQL. 
+
 I am also a AWS certified solution architect.
+
 Skills: Laravel, MySQL, VueJS, AWS, Docker, Terraform.
 
 - 🔭 I’m currently working on Laravel and AWS.
