@@ -1,15 +1,13 @@
 ### Hi there 👋, my name is Duc Dao
-#### I am a web developer living in Hanoi, Vietnam.
-I'm having 5 years of experiences of developing the website, web application using PHP and MySQL. 
+#### I am a software developer & solution architect working in Hanoi, Vietnam.
+I am having 7 years of experiences of developing the website and backend application using PHP and MySQL. 
+I am also a AWS certified solution architect.
+Skills: Laravel, MySQL, VueJS, AWS, Docker, Terraform.
 
-Specialising in Laravel and VueJS stack, also love the open sources and leaning the new technologies.
+- 🔭 I’m currently working on Laravel and AWS.
+- 🌱 I’m currently learning microservice and Kubernetes
 
-Skills: Laravel, VueJS, NuxtJS, NodeJS, AWS, Docker
-
-- 🔭 I’m currently working on Laravel and Vue 
-- 🌱 I’m currently learning Vue3 
-
-Website: [https://ducdh.com](https://ducdh.com)
+Website: [https://ducdh.info](https://ducdh.info)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dhduc&show_icons=true)  
 
