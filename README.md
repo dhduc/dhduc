@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Duc Dao
-#### I am a software developer & solution architect working in Hanoi, Vietnam.
+#### I am a senior software developer working in Hanoi, Vietnam.
 
 I'm having 7 years of experiences of developing the website and backend application using PHP and MySQL. 
 
