@@ -9,7 +9,7 @@ I also have a AWS solution architect associate certification.
 
 Feel free to reach out if you'd like to connect!
 
-Website: [https://ducdh.info](https://ducdh.info)
+Website: [https://ducdh.com](https://ducdh.com)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dhduc&show_icons=true)  
 
