@@ -1,14 +1,13 @@
 ### Hi there 👋, my name is Duc Dao
 #### I am a senior software developer working in Hanoi, Vietnam.
 
-I'm having 7 years of experiences of developing the website and backend application using PHP and MySQL. 
+Hi, I'm Duc Dao, a software engineer, technical leader with 10 years of experience. I’m passionate about building scalable systems, designing cloud solutions, and leading teams to deliver impactful products.
+
+I specialize in PHP and MySQL, Devops and AWS cloud, and enjoy to sharing knowledge and helping others to learn about system design, databases.
 
 I also have a AWS solution architect associate certification.
 
-Skills: Laravel, MySQL, VueJS, AWS, Docker, Terraform.
-
-- 🔭 I’m currently working on Laravel and AWS.
-- 🌱 I’m currently learning microservice and Kubernetes
+Feel free to reach out if you'd like to connect!
 
 Website: [https://ducdh.info](https://ducdh.info)
 
